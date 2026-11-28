@@ -1,6 +1,6 @@
 cask "zeroemu-app" do
-  version "0.5.0"
-  sha256 "196cec4ffce076db1530b828d3f9d3294c8c8ec68b0092af4c04c84c564ab7d1"
+  version "0.5.1"
+  sha256 "763a9528ab6859a79f6c8f2cf23f317063720b061210677c29ddbfd8efb455f1"
 
   url "https://github.com/zeroemu/zeroemu/releases/download/v#{version}/zeroemu-#{version}-aarch64-apple-darwin.app.zip"
   name "zeroemu"
